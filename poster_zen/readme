@@ -1,0 +1,28 @@
+#################
+Poster Python Zen
+#################
+
+Présentation
+============
+
+Ce répertoire contient des tentatives de présenter sur un poster la version originale et la traduction du Zen de Python.
+
+Ressources
+==========
+
+La version originale est disponible sous forme d'une PEP: PEP 20, The Zen of Python - http://www.python.org/dev/peps/pep-0020/
+
+La version française a été traduite par Cécile Trevian et Bob Cordeau et est disponible en annexe du cours "Introduction à Python 3" : http://www.iut-orsay.u-psud.fr/fr/departements/mesures_physiques/mphy_pedagogie.html
+
+La version PythonZen utilise les polices DejaVu.
+
+La version PythonZen-Big utilise les polices suivantes :
+
+- Bemio : http://www.losttype.com/font/?name=bemio
+- Anonymous Pro : http://www.ms-studio.com/FontSales/anonymouspro.html
+
+Licence
+======
+
+Benoît Laurent, Poster Zen, 20110504 et 20120707, texte de Tim Peters et traduction de Cécile Trevian et Bob Cordeau.
+Copyleft: cette oeuvre est libre, vous pouvez la copier, la diffuser et la modifier selon les termes de la Licence Art Libre http://www.artlibre.org
